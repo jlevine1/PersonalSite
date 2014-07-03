@@ -87,6 +87,11 @@ nav{
 	margin-bottom:50px;
 	margin-left:550px;
 }
+#link4{
+	width:292px;
+	height:235px;
+	margin-top:-30px;
+}
 #spinlogo{
     float: left;
     margin: 0 auto;
@@ -104,6 +109,11 @@ nav{
 	height:235px;
 	margin-left:625px;
 	margin-top:-710px;
+	text
+}
+#Early{
+	text-align:center;
+	margin-top:-37px;
 }
 #spinlogo:hover{
     float: left;
